@@ -1,4 +1,4 @@
-<h2>Abount MemenTo Desing Patterns</h2>
+<h2>About MemenTo Desing Patterns</h2>
 
   <p>Memento Design pattern is the way to store previous states on Object
   easily</p>.
